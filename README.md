@@ -7,5 +7,5 @@ Me chamo Ibercson Alves e sou louco por tecnologia!!!
 - Telas no Figma para pedidos
 - Contato: ibercson@gmail.com
 - Designer Gráfica online
-- 
-- ⚡ Fun fact: ...
+- Contato: designerjua@gmail.com
+- Watts: (88) 9 9933-5281
