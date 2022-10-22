@@ -8,7 +8,7 @@ Me chamo Ibercson Alves e sou louco por tecnologia!!!
 - 📧 ibercson@gmail.com
 - Designer Gráfica online
 - 📧 designerjua@gmail.com
-- Watts: (88) 9 9933-5281
+- 📱  Watts: (88) 9 9933-5281
 
 <div align="center">
   <a href="https://github.com/nabucoanalista">
