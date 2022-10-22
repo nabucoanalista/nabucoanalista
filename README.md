@@ -6,7 +6,7 @@
 - 👨🏻‍🎨 UI / UX
 - 🎨 Telas no Figma para pedidos
 - 📧 ibercson@gmail.com
-- Designer Gráfica online
+- 📍  Designer Gráfica online
 - 📧 designerjua@gmail.com
 - 📱  Watts: (88) 9 9933-5281
 
