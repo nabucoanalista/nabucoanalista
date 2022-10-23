@@ -5,10 +5,8 @@
 - 👨🏻‍💻 Designer Gráfico
 - 👨🏻‍🎨 UI / UX
 - 🎨 Telas no Figma para pedidos
-- 📧 ibercson@gmail.com
 - 📍  Designer Gráfica online
 - 📧 designerjua@gmail.com
-- 📱  Watts: (88) 9 9933-5281 ou https://contate.me/designergraficaonline
 
 <div align="center">
   <a href="https://github.com/nabucoanalista">
@@ -24,13 +22,13 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##  
-  
-  <div>
+  <div align="center">Fale comigo!!!</div>
+  <div align="center">
     <a href="https://contate.me/designergraficaonline" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://t.me/Ibercson" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/ibercson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
