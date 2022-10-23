@@ -37,6 +37,7 @@
     <a href="https://discord.gg/503602809954893825" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "mailto:ibercson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.reddit.com/user/nabucodonosor_br" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/nabucoanalista" target="_blank"><img src="https://img.shields.io/github/followers/nabucoanalista.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
   </div>
   
   ##
