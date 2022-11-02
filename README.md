@@ -40,6 +40,12 @@
   
   ##
   
+  <div align="center">
+
+    ![Snake animation](https://github.com/nabucoanalista/nabucoanalista/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
+  
   <div align="center">"... Adrenalina é uma menina dormindo
 Dançando em silêncio, imaginando um reggae ..." Esportes radicais
 Canção de Engenheiros do Hawai. </div>
