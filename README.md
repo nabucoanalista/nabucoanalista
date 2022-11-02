@@ -36,15 +36,11 @@
     <a href = "mailto:ibercson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.reddit.com/user/nabucodonosor_br" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
     <a href="https://github.com/nabucoanalista" target="_blank"><img src="https://img.shields.io/github/followers/nabucoanalista.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
+    
+    ![Snake animation](https://github.com/nabucoanalista/nabucoanalista/blob/output/github-contribution-grid-snake.svg)
   </div>
   
   ##
-  
-  <div align="center">
-
-    ![Snake animation](https://github.com/nabucoanalista/nabucoanalista/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
   
   <div align="center">"... Adrenalina é uma menina dormindo
 Dançando em silêncio, imaginando um reggae ..." Esportes radicais
