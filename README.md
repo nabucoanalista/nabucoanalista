@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/nabucoanalista">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=nabucoanalista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabucoanalista&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nabucoanalista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabucoanalista&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
