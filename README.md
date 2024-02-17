@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Designer Gráfico
 - 👨🏻‍🎨 UI / UX
 - 🎨 Telas no Figma para pedidos
-- 📍  Designer Gráfica online
+- 📍 Designer Gráfica online
 - 📧 designerjua@gmail.com
 
 <div align="center">
