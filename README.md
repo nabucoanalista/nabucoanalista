@@ -4,7 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=nabucoanalista&color=red"></p>
 
 
+- ♿ P.C.D
 - 📚 Cursando A.D.S
+- 🌐 Front-end
 - 👨🏻‍💻 Designer Gráfico
 - 👨🏻‍🎨 UI / UX
 - 🎨 Telas no Figma para pedidos
@@ -28,7 +30,7 @@
 </div>
   
   ##  
-  <div align="center">Fale comigo!!!</div>
+  # <div align="center">Fale comigo!!!</div>
   <div align="center">
     <a href="https://contate.me/designergraficaonline" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://t.me/Ibercson" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
