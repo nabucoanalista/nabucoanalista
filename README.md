@@ -5,7 +5,7 @@
 
 
 - ♿ P.C.D
-- 📚 Cursando A.D.S
+- 📚 Analista e desenvolvedor de sistemas
 - 🌐 Front-end
 - 👨🏻‍💻 Designer Gráfico
 - 👨🏻‍🎨 UI / UX
