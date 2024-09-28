@@ -6,6 +6,8 @@
 
 - ♿ P.C.D
 - 📚 Analista e desenvolvedor de sistemas
+- [image]
+Pós
 - 🌐 Front-end
 - 👨🏻‍💻 Designer Gráfico
 - 👨🏻‍🎨 UI / UX
