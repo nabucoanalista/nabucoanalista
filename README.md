@@ -6,9 +6,7 @@
 
 - ♿ P.C.D
 - 📚 Analista e desenvolvedor de sistemas
-- ![icons8-configuration-64](https://github.com/user-attachments/assets/53e59e99-2004-421c-8833-e235eed96092)
-
-Pós
+- <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-configuration-external-flatart-icons-solid-flatarticons-16.png">Pós
 - 🌐 Front-end
 - 👨🏻‍💻 Designer Gráfico
 - 👨🏻‍🎨 UI / UX
