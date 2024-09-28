@@ -6,7 +6,8 @@
 
 - ♿ P.C.D
 - 📚 Analista e desenvolvedor de sistemas
-- [image]
+- ![icons8-configuration-64](https://github.com/user-attachments/assets/53e59e99-2004-421c-8833-e235eed96092)
+
 Pós
 - 🌐 Front-end
 - 👨🏻‍💻 Designer Gráfico
