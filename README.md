@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 # Olá Mundo!!!!
 ## Me chamo Ibercson Alves e sou louco por tecnologia!!!
 <p align="right"><a href="https://github.com/nabucoanalista" target="_blank"><img src="https://img.shields.io/github/followers/nabucoanalista.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a><br>
@@ -6,7 +7,7 @@
 
 - ♿ P.C.D
 - 📚 Analista e desenvolvedor de sistemas
-- <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-configuration-external-flatart-icons-solid-flatarticons-16.png">Pós
+- ⚙️Pósgraduando em Eng. de Software
 - 🌐 Front-end
 - 👨🏻‍💻 Designer Gráfico
 - 👨🏻‍🎨 UI / UX
