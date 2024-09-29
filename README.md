@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-# Olá Mundo!!!!
-## Me chamo Ibercson Alves e sou louco por tecnologia!!!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D00719&height=120&section=header"/>
+<br>
 <p align="right"><a href="https://github.com/nabucoanalista" target="_blank"><img src="https://img.shields.io/github/followers/nabucoanalista.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a><br>
 <img src="https://komarev.com/ghpvc/?username=nabucoanalista&color=red"></p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D00719&size=35&center=true&vCenter=true&width=1000&lines=OLÁ+MUNDO!!!,+ME+CHAMO+IBERCSON+ALVES;E+SOU+LOUCO+POR+TECNOLOGIA!!!;:%29)]
 
 - ♿ P.C.D
 - 📚 Analista e desenvolvedor de sistemas
@@ -19,6 +19,12 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nabucoanalista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabucoanalista&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nabucoanalista&bg_color=000000&color=D00719&line=D00719&point=6D0008&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nabucoanalista&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
@@ -51,4 +57,4 @@
  ##
 
 <div align="center">"... Adrenalina é uma menina dormindo Dançando em silêncio, imaginando um reggae ..." Esportes radicais Canção de Engenheiros do Hawai. </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D00719&height=120&section=footer"/>  
