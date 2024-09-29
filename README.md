@@ -51,7 +51,10 @@
     <a href="https://www.behance.net/ibercson" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     
   ##
-    
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nabucoanalista}/count.svg" /></p> 
+<br></div>    
 <img src="https://github.com/nabucoanalista/nabucoanalista/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
    
  ##
